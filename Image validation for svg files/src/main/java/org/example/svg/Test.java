@@ -54,7 +54,7 @@ public class Test {
     }
     public static void main(String[] args) throws Exception{
         File file = new File("/Users/gulam.waris/sc.png");
-        System.out.println(isImageMimeType(file));
+//        System.out.println(isImageMimeType(file));
 //        saveAsjpeg();
         try {
             //image is InputStream
