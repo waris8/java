@@ -1,0 +1,16 @@
+https://summerofcode.withgoogle.com/
+https://jderobot.github.io/activities/gsoc/2022#selected-students
+
+https://github.com/opencv/opencv/wiki/GSoC_2022#opencv-project-ideas-list
+
+https://github.com/osrf/osrf_wiki/wiki/GSoC
+
+https://wiki.octave.org/Summer_of_Code_-_Getting_Started
+
+https://public.gitlab.polimi.it/DAER/mbdyn/-/wikis/Google-Summer-of-Code/GSoC-Project-Ideas
+
+https://github.com/rstats-gsoc/gsoc2022/wiki/table%20of%20proposed%20coding%20projects
+
+https://wiki.openmrs.org/display/RES/Summer+Of+Code+2022
+
+https://robocomp.github.io/web/gsoc/2022/contributor_guidance
